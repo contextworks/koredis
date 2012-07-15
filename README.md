@@ -5,7 +5,7 @@ So make sure you have installed [phpredis](https://github.com/nicolasff/phpredis
 
 ## Installation
 
-	git submodule add git@github.com:JeremyWei/koredis.git modules/koredis
+	git submodule add git://github.com/JeremyWei/koredis.git modules/koredis
 	git submodule update --init --recursive
 
 ## Using
